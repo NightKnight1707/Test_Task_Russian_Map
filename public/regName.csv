@@ -1,0 +1,100 @@
+Rtype,RegionCode,RegionName,CarAccidents,Deaths
+federation,Russian Federation,Российская Федерация
+fregion,RU-BEL,Белгородская область
+fregion,RU-BRY,Брянская область
+fregion,RU-VLA,Владимирская область
+fregion,RU-VOR,Воронежская область
+fregion,RU-IVA,Ивановская область
+fregion,RU-KLU,Калужская область
+fregion,RU-KOS,Костромская область
+fregion,RU-KRS,Курская область
+fregion,RU-LIP,Липецкая область
+fregion,RU-MOW,Москва
+fregion,RU-MOS,Московская область
+fregion,RU-ORL,Орловская область
+fregion,RU-RYA,Рязанская область
+fregion,RU-SMO,Смоленская область
+fregion,RU-TAM,Тамбовская область
+fregion,RU-TVE,Тверская область
+fregion,RU-TUL,Тульская область
+fregion,RU-YAR,Ярославская область
+fdistrict,Central,Центральный округ
+fregion,RU-KR,Республика Карелия
+fregion,RU-KO,Республика Коми
+fregion,RU-ARK,Архангельская область
+fregion,RU-VLG,Вологодская область
+fregion,RU-KGD,Калининградская область
+fregion,RU-LEN,Ленинградская область
+fregion,RU-SPE,Санкт-Петербург
+fregion,RU-MUR,Мурманская область
+fregion,RU-NGR,Новгородская область
+fregion,RU-PSK,Псковская область
+fregion,RU-NEN,Ненецкий авт.округ
+fdistrict,Northwestern,Северо-Западный округ
+fregion,RU-AD,Республика Адыгея
+fregion,RU-KL,Республика Калмыкия
+fregion,RU-KDA,Краснодарский край
+fregion,RU-AST,Астраханская область
+fregion,RU-VGG,Волгоградская область
+fregion,RU-ROS,Ростовская область
+fdistrict,Southern,Южный округ
+fregion,RU-DA,Республика Дагестан
+fregion,RU-IN,Республика Ингушетия
+fregion,RU-KB,Кабардино-Балкарская Республика
+fregion,RU-KC,Карачаево-Черкесская Республика
+fregion,RU-SE,Республика Северная Осетия
+fregion,RU-CE,Чеченская Республика
+fregion,RU-CE & RU-IN,Чеченская Республика и Республика Ингушетия
+fregion,RU-STA,Ставропольский край
+fdistrict,Northcaucasian,Северо-Кавказский округ
+fregion,RU-BA,Республика Башкортостан
+fregion,RU-ME,Республика Марий Эл
+fregion,RU-MO,Республика Мордовия
+fregion,RU-TA,Республика Татарстан
+fregion,RU-UD,Удмуртская Республика
+fregion,RU-CU,Чувашская Республика
+fregion,RU-PER,Пермский край
+fregion,RU-KIR,Кировская область
+fregion,RU-NIZ,Нижегородская область
+fregion,RU-ORE,Оренбургская область
+fregion,RU-PNZ,Пензенская область
+fregion,RU-SAM,Самарская область
+fregion,RU-SAR,Саратовская область
+fregion,RU-ULY,Ульяновская область
+fdistrict,Volga,Приволжский округ
+fregion,RU-KGN,Курганская область
+fregion,RU-SVE,Свердловская область
+fregion,RU-TYU,Тюменская область
+fregion,RU-CHE,Челябинская область
+fregion,RU-KHM,Ханты-мансийский авт.округ
+fregion,RU-YAN,Ямало-ненецкий авт.округ
+fdistrict,Urals,Уральский округ
+fregion,RU-AL,Республика Алтай
+fregion,RU-BU,Республика Бурятия
+fregion,RU-TY,Республика Тыва
+fregion,RU-KK,Республика Хакасия
+fregion,RU-ALT,Алтайский край
+fregion,RU-ZAB,Забайкальский край
+fregion,RU-KYA,Красноярский край
+fregion,RU-IRK,Иркутская область
+fregion,RU-KEM,Кемеровская область
+fregion,RU-NVS,Новосибирская область
+fregion,RU-OMS,Омская область
+fregion,RU-TOM,Томская область
+fdistrict,Siberia,Сибирский округ
+fregion,RU-SA,Республика Саха (Якутия)
+fregion,RU-PRI,Приморский край
+fregion,RU-KAM,Камчатский край
+fregion,RU-KHA,Хабаровский край
+fregion,RU-AMU,Амурская область
+fregion,RU-MAG,Магаданская область
+fregion,RU-SAK,Сахалинская область
+fregion,RU-YEV,Еврейская автономная область
+fregion,RU-CHU,Чукотский авт.округ
+fregion,RU.CRYMEA,Республика Крым
+fregion,RU.DONECK,ДНР
+fregion,RU.HERSON,Херсонская область
+fregion,RU.LUGANSK,ЛНР
+fregion,RU.SEVASTOPOL,Севастополь
+fregion,RU.ZAPOROZHIE,Запорожская область
+fdistrict,Far_Eastern,Дальневосточный округ

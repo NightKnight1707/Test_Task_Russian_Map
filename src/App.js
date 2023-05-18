@@ -1,25 +1,17 @@
-import logo from './logo.svg';
 import './App.css';
+import React from "react";
+import {RussiaMap2} from "./russ2/RussiaMap2";
+import {Russ4} from "./russ4/Russ4";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+        <Russ4 />
+        {/*<RussiaMap2/>*/}
+        {/*<Russ3/>*/}
     </div>
   );
 }
 
 export default App;
+
